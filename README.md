@@ -12,8 +12,8 @@
 ![Вкладка Files](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/files.jpg)
 
 ## Users
-![Вкладка Users](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/users.jpg)
-![Вкладка User New](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/userNew.jpg)
+![Вкладка Users](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/users.JPG)
+![Вкладка User New](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/userNew.JPG)
 
 
 ## Back-end
