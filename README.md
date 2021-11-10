@@ -6,14 +6,14 @@
 # Скриншоты
 
 ## File
-![Вкладка File](https://github.com/iSmartyPRO/i-file-upload/blob/main/screenshots/file.jpg)
+![Вкладка File](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/file.jpg)
 
 ## Files
-![Вкладка Files](https://github.com/iSmartyPRO/i-file-upload/blob/main/screenshots/files.jpg)
+![Вкладка Files](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/files.jpg)
 
 ## Пользователи
-![Вкладка Users](https://github.com/iSmartyPRO/i-file-upload/blob/main/screenshots/users.jpg)
-![Вкладка Users](https://github.com/iSmartyPRO/i-file-upload/blob/main/screenshots/userNew.jpg)
+![Вкладка Users](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/users.jpg)
+![Вкладка Users](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/userNew.jpg)
 
 
 ## Back-end
