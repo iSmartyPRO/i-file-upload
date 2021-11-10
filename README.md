@@ -13,7 +13,7 @@
 
 ## Пользователи
 ![Вкладка Users](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/users.jpg)
-![Вкладка Users](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/userNew.jpg)
+![Вкладка User New](https://github.com/iSmartyPRO/i-file-upload/blob/master/screenshots/userNew.jpg)
 
 
 ## Back-end
